@@ -1,0 +1,46 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.*~
+project.lock.json
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# Resharper
+_ReSharper.*
+
+# Visual Studio 2015
+.vs/
+
+# Binaries for programs and plugins
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+msbuild.log
+msbuild.err
+msbuild.wrn
+*.exe
+*.exe~
+*.dll
+
+# Dependency directories
+[Pp]ackages
+[Vv]endor/ 
+.DS_Store
+*.pyc
+nupkg/
