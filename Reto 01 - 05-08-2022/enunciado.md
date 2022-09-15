@@ -26,4 +26,5 @@ Salida: falso
 [2,3,1] es el resultado de eliminar el elemento en el índice 3.
 Ninguna matriz resultante es estrictamente creciente, por lo que el resultado es falso*
 
-**Fuente:** (tras resolución del reto)
+**Fuente:**
+https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
