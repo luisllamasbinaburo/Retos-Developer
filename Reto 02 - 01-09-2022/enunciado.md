@@ -29,6 +29,7 @@ Ejemplos:
 1001 => 101 => 01 => 1 => es colapsable :white_check_mark:
 
 
+Fuente: https://codeforces.com/contest/1694/problem/B
 
 ==== :fire:BONUS PACK ====
 Para nota, quien quiera, puede ampliar con el siguiente ejercicio:
